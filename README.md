@@ -10,3 +10,9 @@ Avec ce script, vous pouvez créer une nouvelle machine virtuelle à partir d'un
 
 ### Global2.ps1
 La dernière version du script, intégrant une interface utilisateur conviviale basée sur PowerShell pour une expérience simplifiée.
+
+
+---
+Source :
+https://www.it-connect.fr/comment-cloner-une-vm-virtualbox/
+---
